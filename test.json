@@ -1,0 +1,10 @@
+{
+    "data": {
+        "driverName": "Juan Dela Cruz",
+        "seatsAvailable": 10,
+        "plateNumber": "ABC1234",
+        "xCoords": "X Coordinates in float",
+        "yCoords": "Y Coordinates in float"
+    }
+}
+
