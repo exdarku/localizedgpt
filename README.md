@@ -12,7 +12,7 @@ LocalizedGPT allows you to access GPT3 in your fingertips, and get results in an
 
 - python
 - pynput
-- openaiControl + Alt + S
+- openai
 - tkinter
 
 ## Installation
